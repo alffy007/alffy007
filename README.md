@@ -33,13 +33,13 @@
 #
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alffy007&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=alffy007&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alffy007&theme=yellowdark&hide_border=true" alt="GitHub Streak" /></a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alffy007&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
