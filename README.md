@@ -14,8 +14,8 @@
 
 
 <h1 align="center">Hey, I'm Alfred</h1>
-<h5 align="center">App lead @ ExcelMEC | Co-Founder @ Haajar.in | 6 Hackathon Winner | Student at Model Engineering College | Flutter Developer | Full-stack Developer | Software Developer</h5>
-<h6 align= "center" style="background-color:DodgerBlue;"> I’m currently studying in final year of Bachelor's of Engineering. I’m keen to work on Machine Learning, Data Analysis and App Development projects. I have hands on experience in programming languages C++, Python, JavaScript. I have built multiple projects using Flutter and machine learning algorithms. I have solved over 200 problems in various coding platforms like Leetcode and GeeksforGeeks. I’m currently learning Operating Systems and Computer Networking. My skillset includes machine learning, database management systems, object oriented programming, App development and UI/UX.  
+<h5 align="center">App lead @ ExcelMEC | Co-Founder @ Haajar.in | 6 Hackathon Winner | Student at Model Engineering College | AI Enthusiast | Flutter Developer | Software Developer</h5>
+<h6 align= "center" style="background-color:DodgerBlue;">I’m a final-year Bachelor's of Engineering student and an AI enthusiast, deeply interested in GenAI and currently exploring Agentic AI. I have hands-on experience in C++, Python, and JavaScript, with a strong foundation in machine learning, data analysis, and app development. I’ve built multiple projects using Flutter and machine learning algorithms and have solved over 200 problems on platforms like LeetCode and GeeksforGeeks. Currently, I’m expanding my knowledge in Operating Systems and Computer Networking. My skillset includes GenAI, machine learning, database management, object-oriented programming, app development, and UI/UX.
 
 </h6>
 
